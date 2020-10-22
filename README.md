@@ -1,2 +1,2 @@
 # Web_market_resolusi
-Repository Untuk Menyimpan rencana pembuatan Web Market produk 
+Belajar Melakukan commit,brach, merge, pull request
